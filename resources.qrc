@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>soundcloud-logo.png</file>
+        <file>translations/SoundCloud-Plugin_en.qm</file>
+        <file>translations/SoundCloud-Plugin_fr.qm</file>
+    </qresource>
+</RCC>
